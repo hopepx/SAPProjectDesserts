@@ -4,6 +4,14 @@ A Software Application Project by **Tan Xue Wen**, preserved from the supplied f
 
 A Windows desktop application built with **C#, Windows Forms, SQL Server LocalDB and MetroModernUI**. The solution and namespace retain the original name `SAPProjectDesserts`.
 
+## Original recording
+
+[Watch or download the original demonstration video](https://github.com/hopepx/SAPProjectDesserts/releases/tag/project-demonstration).
+
+![Application view from the supplied recording](docs/images/application-view.png)
+
+The supplied recording is dated July 2020 and captures the original Visual Studio/application session. The screenshot above is an actual frame from that recording. Feature descriptions below come from inspecting the C# source; the recording is not evidence of a fresh build of this repository.
+
 ## Features in the source
 
 - Registration, login and a signed-in profile.
@@ -20,7 +28,7 @@ This is a coursework desktop application. It does not include online payment pro
 - `SAPProjectDesserts.sln` — Visual Studio solution.
 - `SAPProjectDesserts/` — C# forms, designers, resources, typed datasets and project configuration.
 - `database/Schema.sql` — empty `User` and `Order` tables reconstructed from the final typed dataset, with no saved account or order records.
-- `docs/` — selected views from the supplied project demonstration, when included.
+- `docs/` — an actual frame from the supplied project recording.
 
 ## Run locally
 
